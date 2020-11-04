@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "bundles_of_unstackables",
+  "version": "${version}",
+  "name": "Bundles_of_unstackables",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MPL-2.0",
+  "icon": "assets/bundles_of_unstackables/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dzwdz.bundles_of_unstackables.BundlesOfUnstackables"
+    ]
+  },
+  "mixins": [
+    "bundles_of_unstackables.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.10.6+build.214"
+  }
+}
