@@ -2,10 +2,15 @@
   "schemaVersion": 1,
   "id": "bundles_of_unstackables",
   "version": "${version}",
-  "name": "Bundles_of_unstackables",
-  "description": "",
-  "authors": [],
-  "contact": {},
+  "name": "Bundles'O'Unstackables",
+  "description": "Makes the Bundles better for storing unstackable items.",
+  "authors": [
+    "dzwdz"
+  ],
+  "contact": {
+    "sources": "https://github.com/dzwdz/bundles_of_unstackables",
+    "issues": "https://github.com/dzwdz/bundles_of_unstackables/issues"
+  },
   "license": "MPL-2.0",
   "icon": "assets/bundles_of_unstackables/icon.png",
   "environment": "*",
